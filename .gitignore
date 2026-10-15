@@ -1,0 +1,16 @@
+﻿
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# IDE files
+.idea/
+
+# Environment and secrets
+.env
+appsettings.Development.json
